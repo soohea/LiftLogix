@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083273489230",
+    "project_id": "lift-logix-ba4a5",
+    "storage_bucket": "lift-logix-ba4a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083273489230:android:1229d8f55eb3755cf84c1f",
+        "android_client_info": {
+          "package_name": "com.example.lift_logix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5jxSwu4wNdN7jXLdNYUJA3HLbc40H8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
